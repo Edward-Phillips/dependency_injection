@@ -1,3 +1,6 @@
+
+
+
 class PreciousMetals
 
   attr_reader :value
